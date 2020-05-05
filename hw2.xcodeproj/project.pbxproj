@@ -13,6 +13,8 @@
 		3B5344152461C93800AE63B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B5344142461C93800AE63B1 /* Assets.xcassets */; };
 		3B5344182461C93800AE63B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B5344172461C93800AE63B1 /* Preview Assets.xcassets */; };
 		3B53441B2461C93800AE63B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B5344192461C93800AE63B1 /* LaunchScreen.storyboard */; };
+		3B5344232461D89000AE63B1 /* athkardetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5344222461D89000AE63B1 /* athkardetails.swift */; };
+		3B5344252461F29C00AE63B1 /* thekrobject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5344242461F29C00AE63B1 /* thekrobject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3B5344172461C93800AE63B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3B53441A2461C93800AE63B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B53441C2461C93800AE63B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B5344222461D89000AE63B1 /* athkardetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athkardetails.swift; sourceTree = "<group>"; };
+		3B5344242461F29C00AE63B1 /* thekrobject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thekrobject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				3B53440E2461C93700AE63B1 /* AppDelegate.swift */,
 				3B5344102461C93700AE63B1 /* SceneDelegate.swift */,
 				3B5344122461C93700AE63B1 /* ContentView.swift */,
+				3B5344242461F29C00AE63B1 /* thekrobject.swift */,
+				3B5344222461D89000AE63B1 /* athkardetails.swift */,
 				3B5344142461C93800AE63B1 /* Assets.xcassets */,
 				3B5344192461C93800AE63B1 /* LaunchScreen.storyboard */,
 				3B53441C2461C93800AE63B1 /* Info.plist */,
@@ -148,7 +154,9 @@
 			files = (
 				3B53440F2461C93700AE63B1 /* AppDelegate.swift in Sources */,
 				3B5344112461C93700AE63B1 /* SceneDelegate.swift in Sources */,
+				3B5344252461F29C00AE63B1 /* thekrobject.swift in Sources */,
 				3B5344132461C93700AE63B1 /* ContentView.swift in Sources */,
+				3B5344232461D89000AE63B1 /* athkardetails.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
